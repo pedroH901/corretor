@@ -91,13 +91,7 @@ const images = {
         "almerindo/18.jpg",
         "almerindo/19.jpg",
         "almerindo/20.jpg",
-        "almerindo/21.jpg",
-        "almerindo/22.jpg",
-        "almerindo/23.jpg",
-        "almerindo/24.jpg",
-        "almerindo/25.jpg",
-        "almerindo/26.jpg",
-        "almerindo/27.jpg"
+        "almerindo/21.jpg"
     ],
     banner6: [
         "belarmina/1.jpg",
